@@ -4,7 +4,7 @@
 
 1. Crie um repositório no GitHub.
 2. Clone o repositório do GitHub em sua máquina local:
-	1. Dentro do repositório no GitHub, clique em "<Code>" e copie a URL. 
+	1. Dentro do repositório no GitHub, clique em <Code> e copie a URL. 
 	2. Abra o terminal, navegue até o diretório onde você quer que o repositório local seja colocado e digite `git clone <url-do-repositório>`.
 3. Agora você pode começar a fazer alterações no seu repositório local. Após realizar as alterações, use `git status` no terminal para visualizar quais arquivos foram modificados.
 
